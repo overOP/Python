@@ -5,3 +5,4 @@ print(y);
 
 
 x = 4
+print(type(x))
