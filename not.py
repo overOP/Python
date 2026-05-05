@@ -1,2 +1,2 @@
 x = 20
-print(type(x))
+print(type(x)) 
