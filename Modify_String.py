@@ -9,3 +9,6 @@ print(a.lower())
 # Remove whitespace
 b = "    Hello, World!    "
 print(b.strip())
+
+# Replace String
+print(a.replace("World", "Pradeep"))
