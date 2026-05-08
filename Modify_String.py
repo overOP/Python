@@ -12,3 +12,7 @@ print(b.strip())
 
 # Replace String
 print(a.replace("World", "Pradeep"))
+
+# Split String
+a = "Hello, World!"
+print(a.split(",")) # returns ['Hello', ' World!']
