@@ -18,3 +18,9 @@ age = 24
 name = "Pradeep"
 txt = f"My name is {name} and I am {age+2} years old."
 print(txt)
+
+# format() method
+age = 24
+name = "Pradeep"
+txt = "My name is {} and I am {} years old.".format(name, age)
+print(txt)
